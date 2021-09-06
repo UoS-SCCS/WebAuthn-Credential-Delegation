@@ -1,0 +1,9 @@
+[submodule "virtual_authenticator"]
+	path = virtual_authenticator
+	url = git@github.com:UoS-SCCS/VirtualWebAuthn.git
+[submodule "psuw"]
+	path = psuw
+	url = git@github.com:UoS-SCCS/PSUW-Primitive.git
+[submodule "arkg"]
+	path = arkg
+	url = git@github.com:Yubico/webauthn-recovery-extension.git
